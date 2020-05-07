@@ -1,0 +1,20 @@
+[{
+  "id": 1,
+  "employeename": "pandiya",
+  "firstName": "pandiya",
+  "lastName": "raja",
+  "email": "test@gmail.com",
+  "password": "Test@ara08",
+  "phone": "7878756545",
+  "employeeStatus": 2
+},
+{
+  "id": 2,
+  "employeename": "Kalai",
+  "firstName": "kalai",
+  "lastName": "raja",
+  "email": "test1@gmail.com",
+  "password": "Test@ara08",
+  "phone": "7878756565",
+  "employeeStatus": 3
+}]
